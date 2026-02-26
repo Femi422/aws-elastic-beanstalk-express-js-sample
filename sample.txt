@@ -1,4 +1,4 @@
 HEAD
 =======
 This is for the sample text file and will be the new example
-It will be used for the next task
+It will be used for the next task implementation
